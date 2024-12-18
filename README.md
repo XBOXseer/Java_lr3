@@ -8,7 +8,7 @@ C11 = 0
 
 1. Клонуйте репозиторій:
     ```bash
-    git clone https://github.com/XBOXseer/Java_lr2.git
+    git clone https://github.com/XBOXseer/Java_lr3.git
     ```
 
 2. Перейдіть у директорію проєкту:
